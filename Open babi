@@ -1,0 +1,28 @@
+#include <stdio.h> #include <unistd.h>
+int main() {
+char answer [10];
+printf("love mo po ba ako babi😝?\n"); printf("Yes or No\n");
+scanf("%s", answer);
+if (strcmp(answer, "Yes") == 0) {
+printf(" yeheyy i loveyou more babi mwapss mwapss mwapss mwapss mwaps
+\n");
+printf(" hehehehe");
+printf(" | |
+| | | | \\ \\ / / | _|
+\\ V / I
+| |\n");
+printf(" |│
+printf(" |_____|
+\\ V / \\_/
+||---
+|_|
+|_ T_T |\n"); \\____/ \\____/ \n");
+}
+} else if (strcmp(answer, "No") == 0) { printf("Oh no, why hindi mopo ako love🥺?
+sleep(2);
+printf("OK, baka mas love mo kabit mo! mag sama kayo \n");
+} else {
+}
+\n");
+printf("Invalid input. Please enter 'Yes' or 'No'.\n");
+return 0;
